@@ -22,7 +22,6 @@ def equalpress():
 		expression = "" 
 
 	except: 
-
 		equation.set(" error ") 
 		expression = "" 
 
